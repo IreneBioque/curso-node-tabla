@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "tablas de multiplicar con archivo de texto",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irene",
+  "license": "ISC"
+}
